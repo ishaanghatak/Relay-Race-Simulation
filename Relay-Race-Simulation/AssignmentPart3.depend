@@ -1,0 +1,458 @@
+# depslib dependency file v1.0
+1636465140 source:p:\concurrent systems\assignment\assignmentpart1\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1636466345 p:\concurrent systems\assignment\assignmentpart1\competitor.h
+	<string>
+
+1636470708 source:p:\concurrent systems\assignment\assignmentpart1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+
+1636465140 p:\concurrent systems\assignment\assignmentpart1\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1636465140 source:p:\concurrent systems\assignment\assignmentpart1\threadmap.cpp
+	"ThreadMap.h"
+
+1636465140 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignmentpart1\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1636466346 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignmentpart1\competitor.h
+	<string>
+
+1636646394 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignmentpart1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+
+1636465140 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignmentpart1\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1636471706 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignmentpart1\threadmap.cpp
+	"ThreadMap.h"
+
+1636988997 source:p:\concurrent systems\assignment\assignmentpart2-3\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1636988216 p:\concurrent systems\assignment\assignmentpart2-3\competitor.h
+	<string>
+
+1636989091 source:p:\concurrent systems\assignment\assignmentpart2-3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+
+1636987260 p:\concurrent systems\assignment\assignmentpart2-3\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1636989156 source:p:\concurrent systems\assignment\assignmentpart2-3\threadmap.cpp
+	"ThreadMap.h"
+
+1636988998 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2-3\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1636988218 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2-3\competitor.h
+	<string>
+
+1636989158 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2-3\threadmap.cpp
+	"ThreadMap.h"
+
+1636987260 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2-3\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1637349040 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2-3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+	"SyncAgent.h"
+
+1637349219 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2-3\syncagent.cpp
+	"SyncAgent.h"
+
+1637349089 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2-3\syncagent.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	<mutex>
+	<condition_variable>
+
+1637377560 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1636988218 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2\competitor.h
+	<string>
+
+1637381491 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+	"SyncAgent.h"
+
+1636987260 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1637349089 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2\syncagent.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	<mutex>
+	<condition_variable>
+
+1637349219 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2\syncagent.cpp
+	"SyncAgent.h"
+
+1636989158 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart2\threadmap.cpp
+	"ThreadMap.h"
+
+1637673660 source:p:\concurrent systems\assignment\assignmentpart2\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1637673660 p:\concurrent systems\assignment\assignmentpart2\competitor.h
+	<string>
+
+1637673660 source:p:\concurrent systems\assignment\assignmentpart2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+	"SyncAgent.h"
+
+1637673660 p:\concurrent systems\assignment\assignmentpart2\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1637673660 p:\concurrent systems\assignment\assignmentpart2\syncagent.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	<mutex>
+	<condition_variable>
+
+1637673660 source:p:\concurrent systems\assignment\assignmentpart2\syncagent.cpp
+	"SyncAgent.h"
+
+1637673861 source:p:\concurrent systems\assignment\assignmentpart2\threadmap.cpp
+	"ThreadMap.h"
+
+1638460036 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1638550638 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\competitor.h
+	<string>
+
+1638551181 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\syncagent.cpp
+	"SyncAgent.h"
+
+1638480795 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\syncagent.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	<mutex>
+	<condition_variable>
+	"Results.h"
+	"ThreadMap.h"
+
+1638551312 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\threadmap.cpp
+	"ThreadMap.h"
+
+1638550646 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1638551349 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+	"SyncAgent.h"
+
+1638480634 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\results.h
+	<iostream>
+	<string>
+	"Competitor.h"
+	"ThreadMap.h"
+
+1638551128 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\assignmentpart3\results.cpp
+	"Results.h"
+
+1638458091 source:p:\concurrent systems\assignment\assignmentpart3\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1638458040 p:\concurrent systems\assignment\assignmentpart3\competitor.h
+	<string>
+
+1638459257 source:p:\concurrent systems\assignment\assignmentpart3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+	"SyncAgent.h"
+
+1638458040 p:\concurrent systems\assignment\assignmentpart3\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1638458040 p:\concurrent systems\assignment\assignmentpart3\syncagent.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	<mutex>
+	<condition_variable>
+	"Results.h"
+	"ThreadMap.h"
+
+1638458102 p:\concurrent systems\assignment\assignmentpart3\results.h
+	<iostream>
+	<string>
+	"Competitor.h"
+
+1638458108 source:p:\concurrent systems\assignment\assignmentpart3\threadmap.cpp
+	"ThreadMap.h"
+
+1638458040 source:p:\concurrent systems\assignment\assignmentpart3\results.cpp
+	"Results.h"
+
+1638459350 source:p:\concurrent systems\assignment\assignmentpart3\syncagent.cpp
+	"SyncAgent.h"
+
+1638460036 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1638550638 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\competitor.h
+	<string>
+
+1638551349 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+	"SyncAgent.h"
+
+1638550646 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1638480795 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\syncagent.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	<mutex>
+	<condition_variable>
+	"Results.h"
+	"ThreadMap.h"
+
+1638480634 c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\results.h
+	<iostream>
+	<string>
+	"Competitor.h"
+	"ThreadMap.h"
+
+1638551128 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\results.cpp
+	"Results.h"
+
+1638551181 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\syncagent.cpp
+	"SyncAgent.h"
+
+1638551312 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\concurrent systems\assignment\gwynne_william_10238910\program\threadmap.cpp
+	"ThreadMap.h"
+
+1669494372 source:c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1669494372 c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\competitor.h
+	<string>
+
+1669494373 source:c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<fstream>
+	<mutex>
+	"Competitor.h"
+	"ThreadMap.h"
+	"SyncAgent.h"
+
+1669494373 c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1669494373 c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\syncagent.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	<mutex>
+	<condition_variable>
+	"Results.h"
+	"ThreadMap.h"
+
+1669494373 c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\results.h
+	<iostream>
+	<string>
+	"Competitor.h"
+	"ThreadMap.h"
+
+1669494373 source:c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\results.cpp
+	"Results.h"
+
+1669494373 source:c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\syncagent.cpp
+	"SyncAgent.h"
+
+1669494373 source:c:\users\ishaa\onedrive\desktop\concurrent-systems-coursework-main\threadmap.cpp
+	"ThreadMap.h"
+
+1669610941 source:c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\competitor.cpp
+	<iostream>
+	<iostream>
+	<chrono>
+	<random>
+	<ctime>
+	<mutex>
+	"Competitor.h"
+
+1669608957 c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\competitor.h
+	<string>
+	<iostream>
+	<chrono>
+	<random>
+	<ctime>
+	<mutex>
+
+1669609586 source:c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\results.cpp
+	"Results.h"
+
+1669599667 c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\results.h
+	<iostream>
+	<string>
+	"Competitor.h"
+	"ThreadMap.h"
+
+1669599980 c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\threadmap.h
+	<iostream>
+	<map>
+	<string>
+	<thread>
+	"Competitor.h"
+
+1669609805 source:c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\syncagent.cpp
+	"SyncAgent.h"
+
+1669600390 c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\syncagent.h
+	<condition_variable>
+	<iostream>
+	<map>
+	<mutex>
+	<string>
+	<thread>
+	"Results.h"
+	"ThreadMap.h"
+
+1669599950 source:c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\threadmap.cpp
+	"ThreadMap.h"
+
+1669609301 source:c:\users\ishaa\onedrive\desktop\ghatak_ishaan_10695869\main.cpp
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<mutex>
+	<thread>
+	"Competitor.h"
+	"ThreadMap.h"
+	"SyncAgent.h"
+
